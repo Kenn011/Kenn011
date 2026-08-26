@@ -1,4 +1,4 @@
-# 💫 # Hey there! 
+# 💫 Hey there! 
 
 I'm **Kee**, a **Software Engineering Student** focused on building real-world software and growing into a strong full-stack engineer.
 
