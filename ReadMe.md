@@ -1,5 +1,25 @@
-# 💫 About Me:
-Hey there! 👋<br>I'm Kee, a Software Engineering Student focused on Full-Stack Development and AI-powered solutions.<br><br>I enjoy turning ideas into working applications, building systems, and understanding how things work behind the code.<br><br>🚀 What I Like Building<br>💻 Full-stack web applications<br>📱 Mobile applications<br>🤖 AI-powered tools and automation<br>🗄️ Database-driven systems<br>🔌 APIs and software integrations<br>🛠️ Skills<br>Languages: C# · C++ · Java · JavaScript · Python · SQL<br><br>Web: HTML · CSS · ASP.NET<br><br>AI & Automation: n8n · AI Chatbots · Webhooks<br><br>Tools: Git · GitHub · WordPress<br><br>⚡ Fun Facts<br>🤖 I like automating things.<br>🧩 I enjoy building systems.<br>🏐 I play volleyball.<br>🚀 I learn best by building.
+# 💫 # Hey there! 
+
+I'm **Kee**, a **Software Engineering Student** focused on building real-world software and growing into a strong full-stack engineer.
+
+I enjoy turning ideas into working products, designing systems, solving problems, and understanding **how things work behind the code**.
+
+I'm especially interested in building software that can **automate repetitive work, connect different systems, and make everyday processes simpler**.
+
+### 🚀 What I Like Building
+
+* 💻 Full-stack applications
+* 🤖 Automation and AI-powered tools
+* 🧩 Systems that solve real-world problems
+* 📱 Useful web and mobile products
+
+### ⚡ Fun Facts
+
+* 🤖 I like automating things.
+* 🧩 I enjoy building systems.
+* 🏐 I play volleyball.
+* 🚀 I learn best by building.
+
 
 
 ## 🌐 Socials:
