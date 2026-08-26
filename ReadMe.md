@@ -30,6 +30,6 @@ I'm especially interested in building software that can **automate repetitive wo
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=kenn011&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
