@@ -1,17 +1,23 @@
-# 💫 Hey there! 
+# Hey there! 👋
 
-I'm **Kee**, a **Software Engineering Student** focused on building real-world software and growing into a strong full-stack engineer.
+I'm **Kee**, a **Software Engineering Student** focused on building real-world software and growing as a **Frontend Developer** and **AI Automation Specialist**.
 
-I enjoy turning ideas into working products, designing systems, solving problems, and understanding **how things work behind the code**.
+I enjoy turning ideas into working products, designing clean and useful interfaces, solving problems, and understanding **how things work behind the code**.
 
 I'm especially interested in building software that can **automate repetitive work, connect different systems, and make everyday processes simpler**.
 
 ### 🚀 What I Like Building
 
-* 💻 Full-stack applications
-* 🤖 Automation and AI-powered tools
+* 💻 Frontend web applications
+* 🤖 AI-powered tools and automation
+* 🔗 API integrations and workflows
 * 🧩 Systems that solve real-world problems
-* 📱 Useful web and mobile products
+
+### 🛠️ Tech Skills
+
+I work with a variety of tools and technologies for frontend development, automation, and software development.
+
+**Note:** Some of the backend tools and technologies listed in my Tech Skills are **currently being learned and developed further**.
 
 ### ⚡ Fun Facts
 
@@ -19,6 +25,7 @@ I'm especially interested in building software that can **automate repetitive wo
 * 🧩 I enjoy building systems.
 * 🏐 I play volleyball.
 * 🚀 I learn best by building.
+
 
 
 
